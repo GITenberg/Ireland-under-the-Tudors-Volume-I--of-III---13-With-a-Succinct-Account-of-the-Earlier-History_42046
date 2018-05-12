@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41492'
     url: http://www.gutenberg.org/2009/agents/41492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42046#Ireland-under-the-Tudors-Volume-I--of-III---13-With-a-Succinct-Account-of-the-Earlier-History
 gutenberg_issued: '2013-02-08'
 gutenberg_type: Text
 identifiers:
